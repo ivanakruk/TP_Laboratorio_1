@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1567563466 source:c:\users\ivi\documents\code blocks\proyectos ivi\tp 1 calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567639425 source:c:\users\ivi\documents\code blocks\proyectos ivi\tp 1 calculadora\funciones.c
+
+1567372839 source:c:\users\ivi\documents\code blocks\proyectos ivi\tp 1 calculadora\motrar resultado.c
+
+1567639518 c:\users\ivi\documents\code blocks\proyectos ivi\tp 1 calculadora\funciones.h
+
+1567553759 source:c:\users\ivi\documents\code blocks\proyectos ivi\tp 1 calculadora\mostrarmenu.c
+
+1567470589 source:c:\users\ivi\documents\code blocks\proyectos ivi\tp 1 calculadora\pedirnumeros.c
+
