@@ -1,5 +1,12 @@
 void mostrarMenu();
 void mostrarResultadosCalculados ();
+void mostrarDivnosepuede();
+void mostrarFAcnosepuede();
+void opcionNovalida ();
+void FinPrograma ();
+void CalculosREalizados ();
+void ErroringreseNum ();
+void realiceCalculos();
 int pedirNumeroUno();
 int pedirNumeroDos ();
 int mostrarNumero1 (int z);

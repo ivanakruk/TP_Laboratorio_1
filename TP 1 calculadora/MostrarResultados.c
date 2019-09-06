@@ -1,3 +1,10 @@
+/** \brief Muestra los resultados de las operaciones entre A y B ingresados por el usuario
+ *
+ * \param
+ * \param
+ * \return
+ *
+ */
 
 int mostrarResultadoSuma (int z)
 {

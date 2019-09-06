@@ -1,3 +1,11 @@
+/** \brief Pide al usuario que ingrese los numeros y los guarda
+ *
+ * \param
+ * \param
+ * \return devuelve numero
+ *
+ */
+
 int pedirNumeroUno()
 {
     int numero;
