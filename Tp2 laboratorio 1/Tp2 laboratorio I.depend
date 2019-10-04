@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1570152522 source:c:\users\limonrosado\desktop\tp2 laboratorio i\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayEmployees.h"
+	"utn_.h"
+
+1570152746 source:c:\users\limonrosado\desktop\tp2 laboratorio i\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayEmployees.h"
+	"utn_.h"
+
+1570151181 c:\users\limonrosado\desktop\tp2 laboratorio i\arrayemployees.h
+
+1569790947 source:c:\users\limonrosado\desktop\tp2 laboratorio i\utn_.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn_.h"
+
+1569641008 c:\users\limonrosado\desktop\tp2 laboratorio i\utn_.h
+
